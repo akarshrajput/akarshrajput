@@ -6,7 +6,11 @@ My websites are optimized for both UI/UX and Customer satisfaction.
 
 Here are some of my skills...
 ```
-**Technologies :** HTML 
+Programming : HTML, CSS, JavaScript, Python, C, C++, Java, PHP, React, Node.js and Django.
+API : RestAPI using Node.js and MongoDB/PostgreSQL.
+Database : MongoDB, PostgreSQL and OracleSQL.
+Platforms : Postman(API), Documentation, Docker and AWS.
+
 ```
 
 - 🔭 I’m currently working on Open Minder Project.
