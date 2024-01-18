@@ -6,9 +6,7 @@ My websites are optimized for both UI/UX and Customer satisfaction.
 
 Here are some of my skills...
 ```
-git status
-git add
-git commit
+**Technologies :** HTML 
 ```
 
 - 🔭 I’m currently working on Open Minder Project.
