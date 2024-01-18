@@ -5,7 +5,7 @@ My proficiency in JavaScript, Python and PHP enables me to build dynamic website
 My websites are optimized for both UI/UX and Customer satisfaction.
 ```
 Leetcode - [Leetcode](https://leetcode.com/akarshrajput) 
-CodeChef - [Codechef](https://www.codechef.com/users/akarshrajput)
+CodeChef - <span style="color:red;">[Codechef](https://www.codechef.com/users/akarshrajput)</span>
 ```
 
 Here are some of my skills...
