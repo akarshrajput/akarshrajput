@@ -17,5 +17,5 @@ Platforms : Postman(API), Documentation, Docker and AWS.
 - 🌱 I’m currently learning piano 🎹.
 - 💬 Ask me about coding and Coffe 🍵.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akarshrajput)
-- 😄 Pronouns: Akuu 😊.
+- 😄 Pronouns: [akku](https://www.linkedin.com/in/akarshrajput) 😊.
 
