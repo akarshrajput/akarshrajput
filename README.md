@@ -6,8 +6,6 @@ My websites are optimized for both UI/UX and Customer satisfaction.
 
 Data structures and Algorithm Profile - [Leetcode](https://leetcode.com/akarshrajput) / [Codechef](https://www.codechef.com/users/akarshrajput)
 
-
-Here are some of my skills...
 ```
 Programming : HTML, CSS, JavaScript, Python, C, C++, Java, PHP, React, Node.js and Django.
 API : RestAPI using Node.js and MongoDB/PostgreSQL.
