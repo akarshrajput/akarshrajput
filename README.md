@@ -3,9 +3,10 @@
 I am a Full-Stack developer, expert in making APIs and applications based using Node.js and Django with both SQL and NOSQL Databases in MVC Architecture.I have an extensive knowledge in designing, building, and maintaining applications.
 My proficiency in JavaScript, Python and PHP enables me to build dynamic websites with responsive design.. 
 My websites are optimized for both UI/UX and Customer satisfaction.
-
+```
 Leetcode - [Leetcode](https://leetcode.com/akarshrajput) 
 CodeChef - [Codechef](https://www.codechef.com/users/akarshrajput)
+```
 
 Here are some of my skills...
 ```
