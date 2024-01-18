@@ -5,7 +5,7 @@ My proficiency in JavaScript, Python and PHP enables me to build dynamic website
 My websites are optimized for both UI/UX and Customer satisfaction.
 
 Here are some of my skills...
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+'JavaScript'
 
 - 🔭 I’m currently working on Open Minder Project.
 - 🌱 I’m currently learning ...
