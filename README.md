@@ -4,6 +4,7 @@ I am a Full-Stack developer, expert in making APIs and applications using React,
 My proficiency in JavaScript, Python and PHP enables me to build dynamic websites with responsive design.. 
 My websites are optimized for both UI/UX and Customer satisfaction.
 
+- Visit my portfolio Profile - [Akarsh Rajput](https://akarshrajput.netlify.app/)
 - Data structures and Algorithm Profile - [Leetcode](https://leetcode.com/akarshrajput) / [Codechef](https://www.codechef.com/users/akarshrajput)
 
 ```
