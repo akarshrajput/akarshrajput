@@ -5,7 +5,11 @@ My proficiency in JavaScript, Python and PHP enables me to build dynamic website
 My websites are optimized for both UI/UX and Customer satisfaction.
 
 Here are some of my skills...
-'JavaScript'
+```
+git status
+git add
+git commit
+```
 
 - 🔭 I’m currently working on Open Minder Project.
 - 🌱 I’m currently learning ...
