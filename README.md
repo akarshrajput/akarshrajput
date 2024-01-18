@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Full-Stack developer, expert in making APIs and applications based using Node.js and Django with both SQL and NOSQL Databases in MVC Architecture. I have an extensive knowledge in designing, building, and maintaining applications.
+I am a Full-Stack developer, expert in making APIs and applications using React, Node.js and Django with both SQL and NOSQL Databases in MVC Architecture. I have an extensive knowledge in designing, building, and maintaining applications.
 My proficiency in JavaScript, Python and PHP enables me to build dynamic websites with responsive design.. 
 My websites are optimized for both UI/UX and Customer satisfaction.
 
