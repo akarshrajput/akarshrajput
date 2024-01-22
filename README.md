@@ -5,7 +5,7 @@ My proficiency in JavaScript, Python and PHP enables me to build dynamic website
 My websites are optimized for both UI/UX and Customer satisfaction.
 
 - - Data structures and Algorithm Profile - [Leetcode](https://leetcode.com/akarshrajput) / [Codechef](https://www.codechef.com/users/akarshrajput)
-- - Visit my portfolio - [Portfolio](https://akarshrajput.netlify.app/)
+- - Visit my portfolio - [Portfolio](https://akarshrajput.up.railway.app/)
 
 ```
 Programming : HTML, CSS, JavaScript, Python, C, C++, Java, PHP, React, Node.js and Django.
