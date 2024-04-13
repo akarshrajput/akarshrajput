@@ -13,7 +13,6 @@ API : RestAPI using Node.js and MongoDB/PostgreSQL.
 Database : MongoDB, PostgreSQL and OracleSQL.
 Platforms : Postman(API), Documentation, Docker and AWS.
 Web : Web Design(UI/UX), Web development.
-
 ```
 
 - 🔭 I’m currently working on Open Minder Project.
