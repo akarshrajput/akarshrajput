@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Full-Stack developer, expert in making APIs and applications using React, Node.js and Django with both SQL and NOSQL Databases in MVC Architecture. I have an extensive knowledge in designing, building, and maintaining applications.
+I am a Full-Stack developer, expert in making APIs and full-stack applications using NEXT.js, React, Node.js and Django with both SQL and NOSQL Databases in MVC Architecture. I have an extensive knowledge in designing, building, and maintaining applications.
 My proficiency in JavaScript, Python and PHP enables me to build dynamic websites with responsive design.. 
 My websites are optimized for both UI/UX and Customer satisfaction.
 
@@ -8,11 +8,11 @@ My websites are optimized for both UI/UX and Customer satisfaction.
 - - Visit my portfolio - [Portfolio](https://akarshrajput.up.railway.app/)
 
 ```
-Programming : HTML, CSS, JavaScript, Python, C, C++, Java, PHP, React, Node.js and Django.
+Programming : NEXT.js, React, Node.js, JavaScript, Python, C, C++, Java.
 API : RestAPI using Node.js and MongoDB/PostgreSQL.
-Database : MongoDB, PostgreSQL and OracleSQL.
-Platforms : Postman(API), Documentation, Docker and AWS.
-Web : Web Design(UI/UX), Web development.
+Database : MongoDB, PostgreSQL and Supabase.
+Platforms : Postman(API) and Documentation.
+Web : HTML, CSS, TailwindCSS, Jade, Web Design(UI/UX), Web development.
 ```
 
 - 🔭 I’m currently working on Open Minder Project.
