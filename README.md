@@ -4,7 +4,7 @@ I am a Full-Stack developer, expert in making APIs and full-stack applications u
 My proficiency in JavaScript, Python and PHP enables me to build dynamic websites with responsive design.. 
 My websites are optimized for both UI/UX and Customer satisfaction.
 
-- - Data structures and Algorithm Profile - [Leetcode](https://leetcode.com/akarshrajput) / [Codechef](https://www.codechef.com/users/akarshrajput)
+- - Data structures and Algorithm Profile - [Leetcode](https://leetcode.com/imakarshrajput) / [Codechef](https://www.codechef.com/users/akarshrajput)
 - - Visit my portfolio - [Portfolio](https://akarshrajput.up.railway.app/)
 
 ```
